@@ -4,7 +4,7 @@ Este projeto é uma aplicação simples de lista de tarefas desenvolvida com Vue
 
 ## Explicação Back-end
 
-Tive bastante dificulade na parte de desenvolvimento do back-end com o C#, muito por não ter conhecimento nenhum na linguagem e nenhuma prática, pesquisei bastante, assisti video algumas aulas, cheguei a conseguir desenvolver uma parte mas sofri muito na parte de integração do front-end com o back-end.
+Tive bastante dificulade na parte de desenvolvimento do back-end com o C#, muito por não ter conhecimento nenhum na linguagem e nenhuma prática, pesquisei bastante, assisti algumas aulas, cheguei a conseguir desenvolver uma parte mas sofri muito na parte de integração do front-end com o back-end.
 
 ## Link do projeto em execução
 
